@@ -1,0 +1,9 @@
+https://github.com/samspencer5991/ESP32-Settings.git
+https://github.com/samspencer5991/digipot.git
+https://github.com/samspencer5991/Continuous-Pots.git
+fastled/FastLED@^3.10.3
+https://github.com/samspencer5991/mcp3008.git
+https://github.com/adafruit/Adafruit_TinyUSB_Arduino.git
+https://github.com/samspencer5991/Device-Api.git
+https://github.com/samspencer5991/LED-Bar.git
+bblanchon/ArduinoJson@^7.0.2
